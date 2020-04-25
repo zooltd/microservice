@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/config-server-5001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-feign-9002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-ribbon-9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-7002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-7003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-6001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-8003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/turbine-9003/src/main/java" charset="UTF-8" />
+  </component>
+</project>

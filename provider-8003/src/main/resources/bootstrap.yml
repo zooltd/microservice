@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: provider-8003
+      uri: http://config.com:5001
+      label: master
+      profile: dev

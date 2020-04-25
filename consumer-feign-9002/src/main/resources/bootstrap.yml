@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: consumer-feign-9002
+      uri: http://config.com:5001
+      label: master
+      profile: dev

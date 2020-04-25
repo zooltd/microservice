@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: eureka-7001
+      uri: http://config.com:5001
+      label: master
+      profile: dev

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka7001" />
+        <module name="provider-8002" />
+        <module name="config-server-5001" />
+        <module name="provider-8003" />
+        <module name="eureka-7003" />
+        <module name="provider-8001" />
+        <module name="eureka-7001" />
+        <module name="turbine-9003" />
+        <module name="gateway-6001" />
+        <module name="consumer-feign-9002" />
+        <module name="eureka-7002" />
+        <module name="consumer-ribbon-9001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server-5001" target="1.8" />
+      <module name="consumer-feign-9002" target="1.8" />
+      <module name="consumer-ribbon-9001" target="1.8" />
+      <module name="eureka-7001" target="1.8" />
+      <module name="eureka-7002" target="1.8" />
+      <module name="eureka-7003" target="1.8" />
+      <module name="eureka7001" target="1.8" />
+      <module name="gateway-6001" target="1.8" />
+      <module name="provider-8001" target="1.8" />
+      <module name="provider-8002" target="1.8" />
+      <module name="provider-8003" target="1.8" />
+      <module name="turbine-9003" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-server-5001" options="-parameters" />
+      <module name="consumer-feign-9002" options="-parameters" />
+      <module name="consumer-ribbon-9001" options="-parameters" />
+      <module name="eureka-7001" options="-parameters" />
+      <module name="eureka-7002" options="-parameters" />
+      <module name="eureka-7003" options="-parameters" />
+      <module name="eureka7001" options="-parameters" />
+      <module name="gateway-6001" options="-parameters" />
+      <module name="provider-8001" options="-parameters" />
+      <module name="provider-8002" options="-parameters" />
+      <module name="provider-8003" options="-parameters" />
+      <module name="turbine-9003" options="-parameters" />
+    </option>
+  </component>
+</project>

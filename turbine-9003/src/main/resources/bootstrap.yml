@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: turbine-9003
+      uri: http://config.com:5001
+      label: master
+      profile: dev

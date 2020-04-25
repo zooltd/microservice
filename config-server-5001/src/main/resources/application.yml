@@ -1,0 +1,13 @@
+server:
+  port: 5001
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/siberia9527/spring-cloud-config.git
+          username: siberia9527
+          password: 123456!
+      label: master
