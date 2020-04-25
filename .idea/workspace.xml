@@ -53,7 +53,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -222,7 +222,7 @@
       <workItem from="1587740363697" duration="656000" />
       <workItem from="1587787423518" duration="6183000" />
       <workItem from="1587797151766" duration="2946000" />
-      <workItem from="1587820530117" duration="127000" />
+      <workItem from="1587820530117" duration="791000" />
     </task>
     <servers />
   </component>
@@ -339,10 +339,10 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="330" y="87" key="Maven.ArtifactSearchDialog/62.0.1474.864@62.0.1474.864" timestamp="1587561864584" />
-    <state x="301" y="14" key="SettingsEditor" timestamp="1587820657197">
+    <state x="301" y="14" key="SettingsEditor" timestamp="1587820722290">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="301" y="14" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1587820657197" />
+    <state x="301" y="14" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1587820722290" />
     <state x="522" y="174" width="561" height="524" key="StructurePopup" timestamp="1587714236727">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
